@@ -244,9 +244,11 @@
     padding: 0.5rem;
     }
 
+
   [data-section-theme="dark"]{
 
     --text-color: var(--color-white);
-    --selection-title-color: (--color-white)
-    background-color:var(--color-black)
-  }
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
+
+    }
